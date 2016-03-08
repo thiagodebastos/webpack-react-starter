@@ -1,0 +1,9 @@
+body {
+  background-image: linear-gradient( 90deg, rgb(234,185,159) 0%, rgb(234,193,184) 6%, rgb(213,163,199) 28%, rgb(144,122,186) 49%, rgb(90,88,164) 66%, rgb(25,36,90) 100%);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 750px;
+  height: 1334px;
+  z-index: 1;
+}
